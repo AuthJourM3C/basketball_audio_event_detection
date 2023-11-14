@@ -13,7 +13,7 @@ Features are extracted from the audio signals, including MFCCs, spectral centroi
 ### Frame Labelling
 Frames are labeled based on the provided CSV files.
 
-### Feature Time Integration(FTI)
+### Temporal Feature Integration(TFI)
 Windows of consecutive frames are created using feature stacking and feature statistics(mean, variance, median).
 
 ### Windows Labelling
