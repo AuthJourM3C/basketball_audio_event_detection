@@ -1,5 +1,5 @@
 # Detection and recognition of basketball audio events
-This repository contains a Python script(nn_thesis_final_draft) for Audio Event Detection (AED) using Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN). The pipeline includes data loading, preprocessing, model preparation, training, and testing.
+This repository contains a Jupyter Notebook interactive document (nn_thesis_final_draft) for Audio Event Detection (AED) using Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN). The pipeline includes data loading, preprocessing, model preparation, training, and testing.
 
 ## Model Preparation
 This section prepares the data for model training. It includes data augmentation, feature extraction, frame labeling, window creation, window labeling, and feature selection.
